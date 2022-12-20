@@ -60,6 +60,7 @@ main{
     align-items: center;
 }
 .one h1{
+    text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 64px;
     font-weight: 400;
@@ -83,6 +84,7 @@ main{
 
 
 .two {
+    padding-top: 40px;
     width: 100%;
     display: flex;
     justify-content: space-between;
